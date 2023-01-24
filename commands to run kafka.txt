@@ -1,0 +1,4 @@
+#--- after entering to bin from terminal
+
+sh zookeeper-server-start ../etc/kafka/zookeeper.properties
+sh kafka-server-start ../etc/kafka/server.properties
